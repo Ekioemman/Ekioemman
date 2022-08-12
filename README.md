@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ekioemman Osama by name
-- 👀 I’m interested in Software engineering
+- 👀 I’m passionate about software engineering
 - 🌱 I’m currently learning at ALX
 - 💞️ I’m looking forward to collaborate on different projects as i grow and develop myself in other areas of the fields.
 - 📫 How to reach me http://wa.me/2347060412396
